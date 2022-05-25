@@ -1,0 +1,120 @@
+/* reset */
+*{
+    box-sizing:border-box;
+    margin: 0; 
+    padding: 0;
+    font-family:sans-serif ;
+}
+    
+header{
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color:#f6f8f9;
+    height: 120%;
+}
+h1{
+    font-size: 24px;
+    font-weight:600;
+    padding: 15px 10px;
+}
+h2{
+    font-size: 20px;
+}
+#logorules{
+    size: 10px;
+}
+.container{
+    background-color: #ffffff;
+    width: 70%;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 5%;
+    border-radius: 2px;
+}
+.top{
+    text-align:left;
+    padding: 2%;
+    padding-left: 5%;
+    border-bottom: 2px solid #f6f8f9;
+}
+.botton-firsttype{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 5px;
+}
+.botton-secondtype{
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff;
+    border-radius: 15px;
+    font-size: 12px;
+}
+
+.light-blue-background-botton{
+    background-color:#14aaf5 ;
+    border: 2px solid #14aaf5 ;
+}
+.white-background-botton_grey-text-color{
+    color: #c5ccd1;
+    border: 2px solid #c5ccd1;
+}
+.task{
+    margin-left: 5%;
+    margin-top: 2%;;
+}
+ul{
+    list-style:none;
+}
+.circle-firsttype{
+    border: 1px solid #50d0b9;
+    border-radius: 50%;
+    width: 15px;
+    height: 17px;
+    display: inline-block;
+    font-size: 11px;
+    text-align: center;
+    color: #50d0b9;
+    margin: 10px 10px 5px 1px;
+}
+.circle-secondtype{
+    border: 1px solid #ff0001;
+    border-radius: 50%;
+    width: 15px;
+    height: 17px;
+    display: inline-block;
+    font-size: 11px;
+    text-align: center;
+    color: #ff0001;
+    margin: 10px 10px 5px 1px;
+}
+.margin-bottom-firsttype{
+    margin-bottom: 20px;
+}
+.trying{
+
+}
+.bottom-background-first{
+    background-color: #0aa9ed;
+}
+.bottom-background-second{
+    background-color: #ab5de6;
+}
+.bottom-background-third{
+    background-color: #2cc6ab;
+}
+.bottom-background-fourth{
+    background-color: #ff9b00;
+}
+.bottom-background-fifth{
+    background-color: #ec4a9d;
+}
+.bottom-background-sixth{
+    background-color: #a3d117;
+}
